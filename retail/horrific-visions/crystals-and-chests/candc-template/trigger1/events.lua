@@ -1,0 +1,4 @@
+PLAYER_ENTERING_WORLD CELDOR_HV_ZONE_CHANGED CELDOR_HV_INIT_AURA
+
+CELDOR_HV_ZONE_CHANGED:index
+    index: "number", an index in subzone table
